@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<bus>
+    <bus config="1">
+		<count>25</count>
+		<curstation>XXX站到了，请携带好您的行李物品，从后门下车</curstation>
+		<nextstation>下一站XXX站</nextstation>
+		<terminus>终点站XXX站好了，请携带好您的行李物品，从后门下车</terminus>
+		<offerseat>请给有需要的乘客让座</offerseat>
+		<theftproof>请保管好随身携带的行李物品</theftproof>
+    </bus>
+    <bus config="2">
+        <station>农林大学</station>
+        <station>省工业学校</station>
+        <station>福建建筑学校</station>
+        <station>洪山桥头</station>
+        <station>洪山桥</station>
+        <station>西河</station>
+        <station>天骏小区</station>
+        <station>福大北门</station>
+        <station>茶园山</station>
+        <station>柳桥</station>
+        <station>杨南路口</station>
+        <station>高峰桥</station>
+        <station>善化坊口</station>
+        <station>双抛桥</station>
+       	<station>东街口</station>
+       	<station>旗汛口</station>
+       	<station>五四路口</station>
+       	<station>外贸中心酒店</station>
+       	<station>古三座</station>
+       	<station>树兜</station>
+       	<station>市行政服务中心</station>
+       	<station>福园花园</station>
+       	<station>斗门</station>
+       	<station>闽运汽车北站</station>
+       	<station>火车站</station>
+    </bus>
+</bus>

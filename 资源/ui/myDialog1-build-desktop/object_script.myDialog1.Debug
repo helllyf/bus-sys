@@ -1,0 +1,12 @@
+INPUT(
+./debug\mywidget.o
+./debug\mydialog.o
+./debug\main.o
+./debug\crc.o
+./debug\LedUtils.o
+./debug\packet.o
+./debug\led_public.o
+./debug\convert.o
+./debug\moc_mywidget.o
+./debug\moc_mydialog.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./release\mywidget.o
+./release\mydialog.o
+./release\main.o
+./release\crc.o
+./release\LedUtils.o
+./release\packet.o
+./release\led_public.o
+./release\convert.o
+./release\moc_mywidget.o
+./release\moc_mydialog.o
+);
