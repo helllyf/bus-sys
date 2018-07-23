@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<bus>
+    <bus config="1">
+        <count>30</count>
+        <curstation>站到了，请带上您的行李物品，从后门下车</curstation>
+        <nextstation>下一站</nextstation>
+        <terminus>终点站到了，请携带好您的行李物品，从后门下车</terminus>
+        <offerseat>请给有需要的乘客让座,谢谢您的合作</offerseat>
+        <theftproof>请保管好随身携带的行李物品</theftproof>
+    </bus>
+    <bus config="2">
+        <station>尤溪洲东公交站</station>
+        <station>正荣润城</station>
+        <station>福州东南眼科医院</station>
+        <station>祥坂路口</station>
+        <station>闽江大学</station>
+        <station>上浦路口</station>
+        <station>翁排</station>
+        <station>马蓉新村</station>
+        <station>金塘路口</station>
+        <station>正祥香槟风范</station>
+        <station>旭辉左海岸</station>
+        <station>郭厝里</station>
+        <station>神风科技</station>
+        <station>农林大学南门</station>
+        <station>金山寺</station>
+        <station>洪塘水闸</station>
+        <station>博仕后家园</station>
+        <station>大学城一中校区</station>
+        <station>东南电视台</station>
+        <station>福大新区东门</station>
+        <station>博士后购物广场</station>
+        <station>余盛永辉</station>
+        <station>美垱口</station>
+        <station>钱隆城</station>
+        <station>銮浦</station>
+        <station>沙墩</station>
+        <station>联心</station>
+        <station>榕桥村</station>
+        <station>博仕后缘墅</station>
+        <station>闽江学院北门</station>
+    </bus>
+</bus>
